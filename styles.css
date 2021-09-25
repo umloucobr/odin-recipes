@@ -1,14 +1,14 @@
-.one {
+.homeimage {
     width: auto;
     height: 400px;
     text-align: center;
 }
 
-.two {
+.hometitle {
     text-align: center;
 }
 
-.three {
+.homeul {
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
 
 }
 
-.a {
+.ul {
     display: block;
     margin:auto;
     border-radius: 25px;
@@ -27,4 +27,9 @@ body {
 
 ul{
     list-style-type:none;
+}
+
+a {
+    font-size: larger;
+    text-decoration: none;
 }
