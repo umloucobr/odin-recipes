@@ -9,6 +9,22 @@
 }
 
 .three {
-
     text-align: center;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(255,238,238,1) 0%, rgba(221,239,187,1) 35%, rgba(135,212,63,1) 76%);
+
+}
+
+.a {
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);    
+}
+
+ul{
+    list-style-type:none;
 }
